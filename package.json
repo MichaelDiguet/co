@@ -1,6 +1,6 @@
 {
-  "name": "co",
-  "version": "4.6.0",
+  "name": "cocon",
+  "version": "1.0.0",
   "description": "generator async control flow goodness",
   "keywords": [
     "async",
@@ -27,7 +27,15 @@
     "index.js"
   ],
   "license": "MIT",
-  "repository": "tj/co",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDiguet/cocon.git"
+  },
+  "author": "Michaël Diguet",
+  "bugs": {
+    "url": "https://github.com/MichaelDiguet/cocon/issues"
+  },
+  "homepage": "https://github.com/MichaelDiguet/cocon#readme",
   "engines": {
     "iojs": ">= 1.0.0",
     "node": ">= 0.12.0"

@@ -26,4 +26,4 @@
 [downloads-image]: http://img.shields.io/npm/dm/cocon.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/cocon
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/MichaelDiguet/cocon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter-url]: https://gitter.im/cocon-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge

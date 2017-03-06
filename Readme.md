@@ -10,7 +10,9 @@
   allowing to implicitely provide a context that is magically valid during the execution of the generator function.
 
   Before reading this, you will have to understand the following:
+  
   https://github.com/tj/co
+  
   https://github.com/MichaelDiguet/cPromise
 
 ## License
